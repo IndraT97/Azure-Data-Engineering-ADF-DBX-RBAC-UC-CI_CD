@@ -9,6 +9,8 @@ This project involves use of Databricks Unity Catelog instead of Databricks Meta
 
 This project includes migrating the metadata store from MetaStore to Unity Catalog. It also involves creating roles using Role-Based Access Control (RBAC) and transferring those roles within the Databricks Catalog using the SCIM connector     
 
+For More information on Unity Catelog and RBAC, please visit this website [Link](https://github.com/IndraT97/Tech-Learning/tree/main/RBAC%20and%20Unity%20Catelog)
+
 In real-time scenarios, organizations often grapple with petabytes of structured data dispersed across numerous on-premises locations. Leveraging cloud solutions streamlines data processing, circumventing the limitations and inefficiencies of current infrastructure. This shift not only sidesteps the extensive planning, time, and financial investment required for new infrastructure setup but also mitigates the risk of such investments becoming obsolete. Ultimately, transitioning to the cloud facilitates swift, cost-effective achievement of data processing objectives with minimal complexity
 
 <p align="center">
